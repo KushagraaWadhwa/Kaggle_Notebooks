@@ -114,9 +114,6 @@ This project aims to predict food ratings based on various recipe features using
    jupyter notebook
    ```
 
-## License
-
-This repository is licensed under the MIT License.
 
 ## Acknowledgments
 
